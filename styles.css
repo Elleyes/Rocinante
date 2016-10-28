@@ -11,3 +11,15 @@ body {
   margin-right: 20px;
   margin-left: 20px;
 }
+
+img {
+  padding-bottom: 3em;
+}
+
+.caption-text-center {
+  text-align: center;
+}
+
+.bullet {
+  padding-top: 5em;
+}
